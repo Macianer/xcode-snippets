@@ -9,7 +9,7 @@
 enum
 {
     <#option1#> = (1 << 0),
-    <#option2
+    <#option2#> 
     kCreatedSortingDescFlag =  (1 << 0),
     kCreatedSortingAscFlag =  (1 << 1),
     kDistanceSortingDescFlag =  (1 << 2),
