@@ -8,6 +8,7 @@
 // IDECodeSnippetVersion: 0
 enum
 {
+    <#
     kCreatedSortingDescFlag =  (1 << 0),
     kCreatedSortingAscFlag =  (1 << 1),
     kDistanceSortingDescFlag =  (1 << 2),
