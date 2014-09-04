@@ -8,5 +8,5 @@
 // IDECodeSnippetVersion: 0
  [[NSNotificationCenter defaultCenter] addObserver:(observer)
                                              selector:(action)
-                                                 name:UIApplicationDidEnterBackgroundNotification
+                                                 name:(action)
                                                object:nil];
