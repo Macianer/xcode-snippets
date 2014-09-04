@@ -6,7 +6,7 @@
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
 // IDECodeSnippetUserSnippet: 1
 // IDECodeSnippetVersion: 0
- [[NSNotificationCenter defaultCenter] addObserver:(observer)
+[[NSNotificationCenter defaultCenter] addObserver:<#observer)
                                              selector:(action)
                                                  name:
                                                object:nil];
