@@ -6,4 +6,4 @@
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
 // IDECodeSnippetUserSnippet: 1
 // IDECodeSnippetVersion: 0
- [[NSNotificationCenter defaultCenter] removeObserver:<#self name:UIApplicationDidBecomeActiveNotification object:nil];
+[[NSNotificationCenter defaultCenter] removeObserver:<#observer#>self name:UIApplicationDidBecomeActiveNotification object:nil];
