@@ -10,4 +10,4 @@ enum
 {
     <#option1#> = (1 << 0),
     <#option2#> = (1 << 1),};
-typedef NSUInteger <;
+typedef NSUInteger <#en;
