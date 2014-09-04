@@ -9,4 +9,4 @@
  [[NSNotificationCenter defaultCenter] addObserver:<#observer#>
                                           selector:<#action#>
                                               name:<#action_name#>
-                                            object:<#object];
+                                            object:<#object#>];
