@@ -12,7 +12,6 @@
  @brief <#brief#>
  @description <#description#>
  @param <#parameter#>
- 
  @returns <#retval#>
  @exception <#throws#>
  */
