@@ -6,7 +6,7 @@
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
 // IDECodeSnippetUserSnippet: 1
 // IDECodeSnippetVersion: 0
- [[NSNotificationCenter defaultCenter] addObserver:self
+ [[NSNotificationCenter defaultCenter] addObserver:()
                                              selector:(action)
                                                  name:UIApplicationDidEnterBackgroundNotification
                                                object:nil];
