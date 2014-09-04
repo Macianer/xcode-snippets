@@ -8,5 +8,5 @@
 // IDECodeSnippetVersion: 0
  [[NSNotificationCenter defaultCenter] addObserver:<#observer#>
                                           selector:<#action#>
-                                                 name:
+                                              name:<#action_name-
                                                object:nil];
