@@ -5,7 +5,7 @@
 // IDECodeSnippetIdentifier: 6E8A717C-E0ED-451C-A790-320097E45240
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C-Plus-Plus
 // IDECodeSnippetUserSnippet: 1
-// IDECodeSnippetVersion: 0
+// IDECodeSnippetVersion: 2
 enum
 {
     <#option1#> = (1 << 0),
